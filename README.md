@@ -17,7 +17,7 @@ Programa exclusivo e gratuito, promovido pela Rocketseat para ensino de tecnolog
 <br>
 
 <p align="center">
-  <img alt="projeto my-website" src=".github/.jpg" width="100%">
+  <img alt="projeto my-website" src="/imgs/layout.png" width="80%">
 </p>
 
 ## 🚀 Tecnologias
@@ -29,7 +29,11 @@ Esse projeto é desenvolvido com as seguintes tecnologias:
 
 ## 💻 Projeto
 
-O My-Website é um agregador de links para usar como cartão de visitas online.
+O FLOWERS é um projeto de front-end, focado principalmente no CSS. Este projeto é destinado aos Devs românticos.
+
+## 🔧 Adaptação Própria
+
+Há uma adaptaçã no final do cócódigo HTML, em que foi adicionado um comando para quando ouver o evento "click" no site, iniciar o trecho da música de Bruno Mars - When I Was Your Man.
 
 ## :memo: Licença
 
@@ -37,4 +41,4 @@ Esse projeto está sob a licença MIT.
 
 ---
 
-Feito com ♥ by Rocketseat :wave: [Participe da nossa comunidade!](https://discord.gg/rocketseat)
+TODOS OS DIREITOS AUTORAIS DESTINADOS A:
